@@ -40,7 +40,7 @@ const config = {
     title: 'Testspector documentation',
     description: 'Documentation for Jetbrains plugin Testspector',
     ogImage: null,
-    docsLocation: 'https://github.com/Hasatori/testspector-documentation/content/master/content',
+    docsLocation: 'https://github.com/Hasatori/testspector-documentation/master/content',
     favicon: 'https://raw.githubusercontent.com/Hasatori/testspector-documentation/images/favicon.svg',
   },
   pwa: {
