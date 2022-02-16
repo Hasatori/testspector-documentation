@@ -6,8 +6,8 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: 'https://raw.githubusercontent.com/Hasatori/testspector-documentation/images/logo.svg',
-    logoLink: 'https://raw.githubusercontent.com/Hasatori/testspector-documentation/images/logo.svg',
+    logo: 'https://raw.githubusercontent.com/Hasatori/testspector-documentation/master/images/logo.svg',
+    logoLink: 'https://raw.githubusercontent.com/Hasatori/testspector-documentation/master/images/logo.svg',
     title: "Testspector",
     githubUrl: 'https://github.com/Hasatori/Testspector',
     helpUrl: '',
