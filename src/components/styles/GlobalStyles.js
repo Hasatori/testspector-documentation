@@ -228,7 +228,7 @@ export const baseStyles = css`
     font-weight: 300;
     font-weight:bold;
     color: #2EAD69 !important;
-    margin-top: 16px;
+    margin-top: 0px;
     text-transform: uppercase;
   }
   .headerTitle a {
@@ -288,7 +288,7 @@ export const baseStyles = css`
   }
 
   .navBarBrand img {
-    width: 50px;
+    width: 80px;
     margin-right: 6px;
     display: inline-block;
   }
