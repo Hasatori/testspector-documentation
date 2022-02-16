@@ -7,7 +7,7 @@ const config = {
   },
   header: {
     logo: 'https://raw.githubusercontent.com/Hasatori/testspector-documentation/master/images/logo.svg',
-    logoLink: 'https://raw.githubusercontent.com/Hasatori/testspector-documentation/master/images/logo.svg',
+    logoLink: 'https://www.testspector.com',
     title: "Testspector",
     githubUrl: 'https://github.com/Hasatori/Testspector',
     helpUrl: '',
