@@ -8,13 +8,4 @@ Testspector is an IntelliJ IDEA plugin that via code inspections helps developer
 The unit tests are checked against the dataset and any violation is reported to the user. The user is provided with a description of the problem, hints and also actions for fixing the issue.
 Description also contains links to the documentation where are all best practices described with examples.
 
-## Supportability
-
-The plugin currently supports following IntelliJ products:
-* IntelliJ IDEA Educational — 2019.3 — 2021.1.3
-
-* IntelliJ IDEA Ultimate — 2019.3 — 2021.2
-
-* IntelliJ IDEA Community — 2019.3 — 2021.2
-
-* Android Studio — build 193.0 — 213.0
+This webpage contains detailed description of all best practices for unit testing. It can be used by developers as reference or a guide on how to write unit tests.
