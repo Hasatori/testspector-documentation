@@ -7,8 +7,8 @@ const baseTheme = {
 const lightTheme = {
   ...baseTheme,
   colors: {
-    background: '#fff',
-    heading: '#000',
+    background: '#ECF2FA',
+    heading: '#262035',
     text: '#3B454E',
     preFormattedText: 'rgb(245, 247, 249)',
     link: '#4285f4',
@@ -22,7 +22,7 @@ const darkTheme = {
     heading: '#fff',
     text: '#fff',
     preFormattedText: '#000',
-    link: '#112334',
+    link: '#4484CE',
   },
 };
 

@@ -227,7 +227,7 @@ export const baseStyles = css`
     line-height: 1.5;
     font-weight: 300;
     font-weight:bold;
-    color: #2EAD69 !important;
+    color: #F3F0F3 !important;
     margin-top: 0px;
     text-transform: uppercase;
   }
@@ -258,8 +258,8 @@ export const baseStyles = css`
     padding: 0 !important;
   }
   .navBarDefault {
-    background-color: #112334;
-    color: #2EAD69;
+    background-color: #4484CE;
+    color: #F3F0F3;
     border-radius: 0;
     border-top: 0;
     margin-bottom: 0;
@@ -371,7 +371,7 @@ export const baseStyles = css`
   /* Header section ends here */
   .sidebarTitle {
     /* box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16); */
-    background-color: #f8f8f8;
+    background-color: #ECF2FA;
     padding: 18px 16px;
     font-family: 'Poppins';
     font-size: 18px;
@@ -420,7 +420,8 @@ export const baseStyles = css`
   }
 
   .sideBarUL {
-    margin-top: 32px;
+
+    padding-top: 32px;
   }
 
   .sideBarUL li {
@@ -452,7 +453,7 @@ export const baseStyles = css`
   }
 
   .hideFrontLine .active > a {
-    background-color: #112334;
+    background-color: #4484CE;
     color: #fff !important;
   }
   .firstLevel ul li .collapser svg path {
@@ -473,7 +474,7 @@ export const baseStyles = css`
   }
 
   .sideBarUL .item > a {
-    color: #112334;
+    color: #4484CE;
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -511,7 +512,7 @@ export const baseStyles = css`
     border-color: rgb(230, 236, 241) !important;
     border-style: solid none solid solid;
     border-width: 1px 0px 1px 1px;
-    background-color: #112334 !important;
+    background-color: #4484CE !important;
     color: #fff;
   }
 
