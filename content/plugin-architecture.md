@@ -1,7 +1,7 @@
 ---
 title: "Plugin architecture"
 featuredImage: ./
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
+metaTitle: "Testspector - architecture description"
 metaDescription: "This is the meta description for this page"
 ---
 

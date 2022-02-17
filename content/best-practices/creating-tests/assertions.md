@@ -1,6 +1,6 @@
 ---
 title: "Assertions"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
+metaTitle: "Creating tests - assertions"
 metaDescription: "This is the meta description for this page"
 ---
 

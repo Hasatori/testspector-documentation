@@ -1,6 +1,6 @@
 ---
 title: "Best practices for unit testing"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
+metaTitle: "Testspector - best practices for unit testing"
 metaDescription: "This is the meta description for this page"
 ---
 <h1 id="definition-of-the-term-best-practices">Definition of the term "Best Practices"</h1>

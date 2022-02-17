@@ -1,6 +1,6 @@
 ---
 title: "Defining tests"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
+metaTitle: "Testspector - defining tests"
 metaDescription: "This is the meta description for this page"
 ---
 This subsection contains best practices regarding the definition of unit

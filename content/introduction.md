@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-metaTitle: "This is the title tag of this page"
+metaTitle: "Testspector - introduction"
 metaDescription: "This is the meta description"
 ---
 
