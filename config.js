@@ -28,13 +28,7 @@ const config = {
       '/best-practices',
       '/plugin-architecture'
     ],
-    collapsedNav: [
-
-      '/introduction', // add trailing slash if enabled above
-      '/best-practices',
-      '/plugin-architecture'
-
-    ],
+    collapsedNav: [],
     links: [
       { text: 'Jetbrains marketplace', link: 'https://plugins.jetbrains.com/plugin/16300-testspector' }
     ],
